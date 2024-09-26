@@ -8,3 +8,6 @@
 
 # Documentacion y Video
 [Video de la aplicacion](https://drive.google.com/file/d/15uL_JlzPYmjZil6hyoMDN1zCipuCgp2a/view?usp=drive_link)
+ 
+
+[manual técnico](https://drive.google.com/file/d/1VoUbimvX2VrK1Y32RodGmoqK21hRn_Ux/view?usp=drivesdk)
